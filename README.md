@@ -1,2 +1,3 @@
 # user_checker
-first project of checking username .
+first project.
+hope this is a good start.
